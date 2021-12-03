@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @123santoshi
 - 👀 I’m interested in studies
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on product based companies
 - 📫 How to reach me via linkedin,email
 linkedin profile:-https://www.linkedin.com/in/mendu-santoshi-mani-kumari-910a131a9
