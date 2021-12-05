@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @123santoshi
-- 👀 I’m interested in studies
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on product based companies
 - 📫 How to reach me via linkedin,email
